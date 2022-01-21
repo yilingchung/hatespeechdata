@@ -209,7 +209,7 @@ Please send contributions via github pull request. You can do this by visiting t
 
 #### Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text
 * Link to publication: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
-* Link to data: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
+* Link to data: [https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text](https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text)
 * Task description: Binary (offensive, non-offensive)
 * Details of task: Hate per se (related to 2016 U.S. presidential election)
 * Size of dataset: 743
